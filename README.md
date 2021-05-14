@@ -1,0 +1,1 @@
+This repository contains my worked solutions for selected exercises in the C programming book, "K&R2".
